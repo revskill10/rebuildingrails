@@ -1,0 +1,16 @@
+PATH
+  remote: ../myrails
+  specs:
+    myrails (0.0.1)
+      rack
+
+GEM
+  remote: http://rubygems.org/
+  specs:
+    rack (1.5.2)
+
+PLATFORMS
+  x86-mingw32
+
+DEPENDENCIES
+  myrails!
